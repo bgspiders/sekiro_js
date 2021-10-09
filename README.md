@@ -2,7 +2,7 @@
 一句话，懒得扣js，因为某些网站又臭又长，时不时会更新某些参数
 这个项目比自动化快点，省点资源，但是相同条件下是不会超过算法还原的，
 ### 想法
-在渣总的sekiro框架的启发下，友情链接https://github.com/virjar/sekiro，具体介绍可以看官方文档
+在渣总的sekiro框架的启发下，友情链接https://github.com/virjar/sekiro 具体介绍可以看官方文档
 主要思路就是使用sekiro可以对浏览器进行执行js的操作，比如直接执行document.cookie就能拿到目标网站的
 cookie，
 ![file](https://i.loli.net/2021/07/14/cNLJoygOlvGqhCP.png)
